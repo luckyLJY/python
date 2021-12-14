@@ -3,8 +3,8 @@
 导入多个模块：import car
 导入模块所有类：from module_name import *
 '''
-from car import Car
-from battery import Battery
+from 类.car import Car
+from 类.battery import Battery
 
 class ElectricCar(Car):
     "电动汽车"
