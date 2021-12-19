@@ -11,7 +11,7 @@
 '''
 from collections import defaultdict
 
-#列表--保证插入顺序
+#列表--保证插入按原来顺序
 d = defaultdict(list)
 d['a'].append(2)
 d['a'].append(1)
