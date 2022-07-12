@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6038c69f-fc45-4c4b-9770-b80f18dfc75f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/UDP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/UDP/demo_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/UDP/send_recv_udp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/UDP/socket_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01网络编程/UDP/udp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/test/Notes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/test/Setup.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/test/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/americas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/countries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/county_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/world_population.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/death_valley_2018_full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/death_valley_2018_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/sitka_weather_07-2018_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/sitka_weather_2018_full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/sitka_weather_2018_simple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/highs_lows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/dice_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/different_dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/db/db_access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/md5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/伪装成浏览器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用selenium获取动态数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用正则分析数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/斯洛达克数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/爬取静态数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/获取动态数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/mpl_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/scatter_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/RandomWalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/random_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/rw_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Base/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/other/file/文件操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/Base/other/file/文件操作.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$die_visual__1_.coverage" NAME="die_visual (1) Coverage Results" MODIFIED="1655455284929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/2018版" />
+    <SUITE FILE_PATH="coverage/python$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1655709451442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format" />
+    <SUITE FILE_PATH="coverage/python$ch17_4_3_1.coverage" NAME="ch17.4.3-1 Coverage Results" MODIFIED="1655275644774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/other/database" />
+    <SUITE FILE_PATH="coverage/python$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1655452702172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子" />
+    <SUITE FILE_PATH="coverage/python$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1655434981721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib" />
+    <SUITE FILE_PATH="coverage/python$udp_server.coverage" NAME="udp_server Coverage Results" MODIFIED="1654609362542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01网络编程/UDP" />
+    <SUITE FILE_PATH="coverage/python$dice_visual.coverage" NAME="dice_visual Coverage Results" MODIFIED="1655453211709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1655457128769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步" />
+    <SUITE FILE_PATH="coverage/python$world_population.coverage" NAME="world_population Coverage Results" MODIFIED="1655781216756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/JSON" />
+    <SUITE FILE_PATH="coverage/python$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1655368631661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="斯洛达克数据 Coverage Results" MODIFIED="1656759197811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+    <SUITE FILE_PATH="coverage/python$demo_client.coverage" NAME="demo_client Coverage Results" MODIFIED="1654610328718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01网络编程/UDP" />
+    <SUITE FILE_PATH="coverage/python$americas.coverage" NAME="americas Coverage Results" MODIFIED="1655775077005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/JSON" />
+    <SUITE FILE_PATH="coverage/python$selenium.coverage" NAME="使用selenium获取动态数据 Coverage Results" MODIFIED="1656239646881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+    <SUITE FILE_PATH="coverage/python$socket_demo.coverage" NAME="socket_demo Coverage Results" MODIFIED="1654609371046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01网络编程/UDP" />
+    <SUITE FILE_PATH="coverage/python$demo_server.coverage" NAME="demo_server Coverage Results" MODIFIED="1654611154270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01网络编程/UDP" />
+    <SUITE FILE_PATH="coverage/python$BeautifulSoup.coverage" NAME="BeautifulSoup Coverage Results" MODIFIED="1656486758843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+    <SUITE FILE_PATH="coverage/python$different_dice.coverage" NAME="different_dice Coverage Results" MODIFIED="1655454190833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子" />
+    <SUITE FILE_PATH="coverage/python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1655448138697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步" />
+    <SUITE FILE_PATH="coverage/python$countries.coverage" NAME="countries Coverage Results" MODIFIED="1655771854971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data" />
+    <SUITE FILE_PATH="coverage/python$county_codes.coverage" NAME="county_codes Coverage Results" MODIFIED="1655772253448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="end.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/end.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>，</find>
+      <find>re</find>
+      <find>workthread_body</find>
+      <find>controlthread_body</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01网络编程/README.MD" />
+        <option value="$PROJECT_DIR$/01网络编程/UDP/socket_demo.py" />
+        <option value="$PROJECT_DIR$/01网络编程/UDP/udp_server.py" />
+        <option value="$PROJECT_DIR$/01网络编程/UDP/demo_client.py" />
+        <option value="$PROJECT_DIR$/01网络编程/UDP/demo_server.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/test/test.csv" />
+        <option value="$PROJECT_DIR$/python基础知识复习/test/test.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/mpl_squares.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/scatter_squares.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/RandomWalk.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/random_walk.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die_visual.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/dice_visual.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/different_dice.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/2018版/die_visual.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/rw_visual.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/test.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/highs_lows.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data/countries.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data/county_codes.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data/world_population.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/americas.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/JSON/world_population.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/爬取静态数据.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/获取动态数据.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/伪装成浏览器.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用selenium获取动态数据.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用正则分析数据.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/BeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/md5.txt" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/数据分析.md" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/db/db_access.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/斯洛达克数据.py" />
+        <option value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/end.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-30" />
+    <option name="y" value="27" />
+    <option name="width" value="1903" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="python基础知识复习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="python基础知识复习" type="462c0819:PsiDirectoryNode" />
+              <item name="数据分析" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="python基础知识复习" type="462c0819:PsiDirectoryNode" />
+              <item name="数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pushcode\GitHub\python\python基础知识复习\数据分析\JSON" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pushcode\GitHub\python\python基础知识复习\数据分析\投掷骰子\2018版" />
+      <recent name="F:\pushcode\GitHub\python\python基础知识复习\数据分析\the_csv_file_format" />
+      <recent name="F:\pushcode\GitHub\python\python基础知识复习\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.斯洛达克数据">
+    <configuration name="斯洛达克数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/斯洛达克数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="BeautifulSoup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/BeautifulSoup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="伪装成浏览器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/伪装成浏览器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="使用正则分析数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用正则分析数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="使用selenium获取动态数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用selenium获取动态数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.使用selenium获取动态数据" />
+      <item itemvalue="Python.BeautifulSoup" />
+      <item itemvalue="Python.斯洛达克数据" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.斯洛达克数据" />
+        <item itemvalue="Python.BeautifulSoup" />
+        <item itemvalue="Python.使用selenium获取动态数据" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6038c69f-fc45-4c4b-9770-b80f18dfc75f" name="Default" comment="" />
+      <created>1654605704872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654605704872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-24" y="22" width="1522" height="843" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32904148" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.24651162" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32958803" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.21769662" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32958803" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49754903" visible="true" weight="0.14412569" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="0" visible="true" weight="0.13661203" />
+      <window_info id="Structure" order="2" sideWeight="0.502451" side_tool="true" weight="0.14217362" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3299595" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/upload-server-udp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/upload-client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/upload-client-udp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="50" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/tcp-client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/ch18.4.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/ch18.4.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/ch18.4.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/network_program/网络编程.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.3.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/多线程.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.5.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.6.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/other/multithreading/ch20.6.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/mpl_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/生成数据matplotlib/scatter_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="2944" column="23" lean-forward="true" selection-start-line="2944" selection-start-column="23" selection-end-line="2944" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1321">
+          <caret line="3357" column="8" selection-start-line="3357" selection-start-column="8" selection-end-line="3357" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/RandomWalk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/dice_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/different_dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/random_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/2018版/die_visual.py" />
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/rw_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/随机漫步/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/投掷骰子/die_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/highs_lows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/sitka_weather_2018_full.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" selection-start-column="60" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/the_csv_file_format/data/sitka_weather_07-2018_simple.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data/data/population_json.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret column="4738" selection-start-column="4733" selection-end-column="4738" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/data/world_population.py" />
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/countries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/county_codes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/americas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/JSON/world_population.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/伪装成浏览器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/爬取静态数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用selenium获取动态数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/使用正则分析数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/获取动态数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/md5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/数据分析.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="1176" column="48" selection-start-line="1176" selection-start-column="48" selection-end-line="1176" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/db/db_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/斯洛达克数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+          <folding>
+            <element signature="e#79#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础知识复习/数据分析/爬虫/end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
